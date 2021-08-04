@@ -1,0 +1,954 @@
+
+
+
+.enva-header{
+    font-size: 12px;
+    height: 54px;
+    background-color: #262626;
+    z-index: 100;
+    line-height: 54px;
+    margin-bottom: 1px;
+}
+.enva-logo{
+float: left;
+padding: 0 20px;
+}
+.enva-logo a{
+    display: inline-block;
+    position: absolute;
+    top: 18px;
+    text-indent: -9999px;
+    height: 18px;
+    width: 152px;
+    background: url(./images/logo3.jpg);
+    background-size: 152px 18px;
+}
+.buy-action{
+    float: right;
+    line-height: 54px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+.buy-btn{
+    display: inline-block;
+    padding: 0 20px;
+}
+.buy-now{
+    box-shadow: 0 2px 0 #6f9a37;
+    position: relative;
+    background-color: #82b440;
+    font-size: 14px;
+    padding: 5px 20px;
+    line-height: 1.5;
+    color: white;
+}
+.buy-now:hover{
+    background-color: #659724;
+    color: white;
+}
+.navbar-brand{
+    
+    font-weight: 500;
+    font-family: var(--e-global-typography-accent-font-family),Sans-serif;
+}
+.navbar ul{
+    margin-right: 74px;
+}
+.navbar ul li{
+    font-size: 18px;
+    padding: 16px;
+    font-weight: 600;
+}
+
+
+ul  .nav-link{
+    color:  #000;;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.form-inline .btn-css{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #3f6c51;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+}
+.form-inline .btn-css:hover{
+    color: #fff;
+}
+.active{
+    color: #9c380c;
+    background-color: white;
+}
+/* section-one css */
+.first-section{
+    background-attachment: #f7f6f3;
+}
+.first-text p{
+    font-family: "Open Sans",Sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.first-text{
+margin: 0 0 16px 0;
+padding: 0 0 0 0;
+}
+.math-text h1{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.c-button a{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #3f6c51;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+    
+}
+.c-button a:hover{
+    background-color: #1d663a;
+    color: #fff;
+}
+.a-button a{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #9c380c;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+}
+.a-button a:hover{
+    background-color: #752908;
+    color: #fff;
+}
+.first-section ul li{
+   
+    display: inline-block;
+ 
+}
+.first-section ul {
+    margin-left: -44px;
+}
+.a-button {
+    margin-left: 23px;
+}
+/* first section close */
+
+/* second section css */
+.img-two{
+    width: 25%;
+}
+.imd-sec {
+    width: 100%;
+}
+.imd-sec h5{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+/* second section close */
+
+
+/* Third section start */
+.img-one1 img{
+    height: auto;
+    max-width: 100%;
+    border: none;
+    box-shadow: none;
+}
+.third-text{
+    margin: 0 0 0 90px;
+    padding: 0 0 0 0;
+}
+.third-text p{
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+.third-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 49px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+.line{
+    text-align: left;
+    
+    padding-bottom: 8px;
+}
+.line {
+    
+    width: 130px;
+    margin: 0 auto;
+    margin-left: 0;
+    background-color: #9c380c;
+}
+.num{
+    color: #9c380c;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+}
+.num-te{
+    color: #3b393a;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/* Third section close */
+
+
+/* fourt section css start */
+
+.fourth-sec{
+    background-color: #f7f6f3;
+    overflow: hidden;
+    transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow 0.3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 120px 0 79px 0;
+}
+.fr-text p{
+padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+.fr-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.fr-text .line{
+    width: 102px;
+    margin: 0 auto;
+   
+    background-color: #9c380c;
+    margin-left: 501px;
+    
+    padding-bottom: 4px;
+}
+.ser-1{
+    margin: 0 0 0 0;
+    padding: 32px 32px 32px 32px;
+    background-color: #FFF;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 3px 6px 0 rgb(182 184 192 / 18%);
+}
+.ser-1 h4{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+.fr-btn {
+    margin-top: 82px;
+}
+.fr-btn a{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #3f6c51;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 59px 14px 57px;
+}
+.fr-btn a:hover{
+    color: #fff;
+    background-color: #255f3c;
+}
+.fr-btn span{
+    justify-content: center;
+}
+
+/* fourt section css close */
+
+/* five section css start */
+
+.five-text p{
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    font-size: 19px;
+}
+.five-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.five-text .line{
+    width: 102px;
+    margin: 0 auto;
+   
+    background-color: #9c380c;
+    margin-left: 0px;
+    
+    padding-bottom: 4px;
+}
+.ic a{
+    background-color: #f7f6f3;
+    --icon-padding: .6em;
+    border-radius: 50%;
+}
+.ic a span i{
+    /* color: #aa7760; */
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 20px;
+  }
+.fa-facebook {
+    background: #f7f6f3;
+    color: #aa7760;
+    transform: translateX(-50%);
+   
+  }
+  .fa-twitter{
+    background: #f7f6f3;
+    color: #aa7760;
+  }
+  .fa-youtube{
+    background: #f7f6f3;
+    color: #aa7760;
+  }
+  .fa-instagram{
+    background: #f7f6f3;
+    color: #aa7760;
+  }
+  .ic ul li{
+      display: inline-block;
+     
+      
+  }
+  .ic ul li span a i{
+      font-size: 33px;
+  }
+  .fiv-lt{
+      background-color: #3f6c51;
+      padding: 18px;
+    margin: 0px -30px;
+  }
+  .fiv-lt p{
+      color: white;
+  }
+/* five section css close */
+
+/* six section css start */
+.six-bc{
+    background-color: #f7f6f3;
+    overflow: hidden;
+    transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow 0.3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 210px 0 120px 0;
+}
+.video img{
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+    background-size: cover;
+    background-position: 50%;
+}
+.video .fa{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.six-text p{
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    font-size: 24px;
+}
+.six-text h2{
+    color:#070600 ;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.line{
+    text-align: left;
+    
+    padding-bottom: 8px;
+}
+.line {
+    
+    width: 130px;
+    margin: 0 auto;
+    margin-left: 0;
+    background-color: #9c380c;
+}
+.dw{
+    font-family: "Martel",Sans-serif;
+    font-weight: 600;
+    color: #3f6c51;
+    font-size: 16px;
+}
+.dw i{
+    margin-left: -9px;
+    font-size: 18px;
+}
+
+
+/* six section css close */
+
+/* seven section css start */
+.seven-se .line{
+    margin-left: 474px;
+}
+.seven-se h2{
+    font-size: 40px;
+}
+.rie{
+    color: #3f6c51;
+    font-size: 24px;
+    font-weight: 600;
+}
+.c-text{
+    font-size: 27px;
+}
+
+/* seven section css close */
+
+
+/* eight section css start */
+
+/* slideshow taşıyıcı */
+/* .slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  } */
+  
+  /* varsayılan olarak görselleri gizliyoruz */
+  .mySlides {
+    display: none;
+  }
+  .mySlides img{
+      height: 386px;
+      width: 100px;
+  }
+  
+  /* sonraki ve önceki butonları */
+  /* .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  } */
+  
+  /* sonraki butonunun pozisyonu */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* üzerine gelince hafif bir efekt verelim */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+  /* görsel başlığı */
+
+  
+  /* görsel numaraları */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* nokta navigasyonu */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  /* .active, .dot:hover {
+    background-color: #717171;
+  }
+   */
+  /* geçiş animasyonu */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  
+  
+
+
+/* eight section css close */
+
+
+
+/* nine css start */
+.nine-bg{
+    background-image: url(./images/graduate-girl-hugging-mother-SBUYKVX.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.frm{
+    background-color: #fff;
+    box-shadow: 0 5px 11px 2px rgb(136 140 133 / 12%);
+    transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow 0.3s;
+    margin: 0 0 88px 0;
+    padding: 32px 32px 32px 32px;
+}
+.frm .line{
+    margin-left: 163px;
+}
+.pte{
+    font-size: 10px;
+}
+.sub{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    background-color: #3f6c51;
+    color: white;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 1px 32px 0px 47px;
+}
+.sub button{
+    text-align: center;
+    align-items: center;
+   
+}
+
+
+
+.ten-tx .line{
+   margin-left: 483px;
+}
+
+
+
+.elven-bg{
+    background-color: #f7f6f3;
+    overflow: hidden;
+    transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow 0.3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 120px 0 116px 0;
+}
+.elven-bg .line{
+    margin-left: 495px;
+}
+.read{
+    color: #3f6c51;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: none;
+    margin-bottom: 10px;
+}
+
+
+.twe-text h3{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.btnn{
+    
+    border: none;
+}
+.btnn a{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: var(--e-global-color-3dd526ce);
+    background-color: #9c380c;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+}
+
+
+.img-cer{
+    width: 237px;
+    height: 218px;
+    text-align: center;
+    align-items: center;
+    margin-left: 426px;
+}
+.care-text p{
+    color: #6c6865;
+    font-family: "Open Sans",Sans-serif;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+.care-text p span{ 
+    color: #3b393a;
+    font-family: "Martel",Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+.carousel-control-next-icon{
+    color: #000;
+    background-color: white;
+}
+
+footer{
+    background-color: #f7f6f3;
+}
+
+
+
+/* about page css */
+.abt-bg{
+    background-color: #f7f6f3;
+    overflow: hidden;
+    transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow 0.3s;
+    margin-top: 0;
+    margin-bottom: 160px;
+    padding: 40px 0 61px 0;
+}
+.abpage-text h1{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.abt-bg p{
+    font-size: 28px;
+    font-weight: 300;
+}
+.abt-bg p span a{
+    color: #3f6c51;
+    font-family: var(--e-global-typography-accent-font-family),Sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+}
+.abg-c{
+    margin-top: -191px;
+    width: 100px;
+    margin-left: 113px;
+}
+.ab2page h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+/* about page close */
+
+/* contact page css start */
+
+.cn-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+
+.cn-text p{
+padding: 0;
+margin: 0;
+line-height: 1;
+font-size: 15px;
+}
+
+/* contact page css close */
+
+/* services page css start */
+.services-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.ser-img{
+    max-width: 100%;
+}
+.services-text{
+    margin-top: 88px;
+}
+.lg-left{
+    margin-left: -31px;
+}
+.service-btn{
+    fill: #9c380c;
+    color: #9c380c;
+    background-color: #FFF0;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #9c380c;
+    border-radius: 0 0 0 0;
+    padding: 13px 88px 10px 0px;
+    margin: 10px 28px 4px 4px;
+}
+
+.service-btn span{
+    color: #9c380c;
+    text-align: center;
+    margin-left: 81px;
+}
+.hvr-bounce-to-right:before{
+    background-color:#9c380c ;
+}
+.seven-ser{
+    background-image: url(./images/math-formulas-on-black-chalkboard-PZEWBFM.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.seven-text{
+    align-items: center;
+    align-content: center;
+}
+.seven-text h1{
+    color: #fff;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.seven-text p{
+    color: #fff;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+.seven-text span{
+    color: #fff;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-weight: 600;
+    font-size: 65px;
+}
+
+
+    .overlay{ 
+    position: absolute;
+    transition: background 0.3s,border-radius 0.3s,opacity 0.3s;
+    opacity: .7;
+    background: #070600;
+    height: 80%;
+    width: 100%;
+    top: 3000px;
+    left: 0;
+}
+.a-button1{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+    color: #fff;
+    background-color: #9c380c;
+}
+
+.a-button1 span{
+    font-size: 65px;
+}
+
+
+
+
+
+
+.online-text h1{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 1.3em;
+
+}
+.online-text h3{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.online-image img{
+    height: auto;
+    max-width: 100%;
+    border: none;
+}
+.ul-online{
+    padding: 0;
+    margin-left: -560px;
+    margin-top: 41px;
+
+
+}
+.onl-text h2{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.last-le{
+    color: #070600;
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.post button{
+    font-family: "Libre Baskerville",Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: #3f6c51;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #02010100;
+    border-radius: 0 0 0 0;
+    padding: 16px 32px 14px 32px;
+}
+.post button:hover{
+    color: #fff;
+    background-color: #2f6645;
+    cursor: pointer;
+}
+
+
+
+
+
+
+  /* Media query start */
+  @media screen and (max-width: 600px) {
+    .enva-header{
+        width: 100%;
+    }
+    .ten-tx .line{
+        margin-left: 96px;
+    }
+    .seven-se .line{
+        margin-left: 96px;
+    }
+    .img-mc img{
+        width: 100%;
+    }
+    .ic ul{
+    width: 100%;
+    }
+    .ic ul li span a i {
+        font-size: 10px;
+    }
+    .fa{
+        width: 100px;
+    }
+    .fiv-lt{
+        background-color: #3f6c51;
+        padding: 0px;
+        margin: 0px -12px;
+    }
+    .map iframe{
+        width: 100%;
+    }
+    .ul-online{
+        margin-left: 0px;
+    }
+
+}
+
+
+
